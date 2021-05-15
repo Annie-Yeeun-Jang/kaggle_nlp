@@ -9,5 +9,6 @@ https://www.kaggle.com/theoviel/bert-for-question-answering-baseline-training
 
 ## BERT NER
 https://www.kaggle.com/tungmphung/pytorch-bert-for-named-entity-recognition
+
 https://www.kaggle.com/tungmphung/coleridge-matching-bert-ner
 
