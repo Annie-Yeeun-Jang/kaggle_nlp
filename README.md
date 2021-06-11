@@ -5,4 +5,7 @@ BERT NER + String matching refernce code : https://www.kaggle.com/tungmphung/col
 Masked Language Model refernce code : https://www.kaggle.com/chienhsianghung/external-datasets-matching-mlm
 
 
-실험 결과 정리
+## 최종 모델
+T5 + MLM + Baseline Matching (all included)
+
+Leaderboard score : 0.549
